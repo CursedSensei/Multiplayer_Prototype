@@ -1,4 +1,5 @@
 #include "Framework.h"
+#include "Data_entities.h"
 
 LRESULT CALLBACK Wndproc(HWND hwnd, UINT uMsg, WPARAM wParam, LPARAM lParam);
 

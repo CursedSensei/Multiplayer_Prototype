@@ -23,5 +23,8 @@
     <ClInclude Include="Framework.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Data_entities.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
