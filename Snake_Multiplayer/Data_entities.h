@@ -1,13 +1,13 @@
 #pragma once
 
-typedef struct {
+typedef struct pData{
 	char name[100];
 	unsigned int highest_score;
 
 	unsigned int color;
 } player_metadata;
 
-typedef struct {
+typedef struct sData{
 	unsigned int color;
 	unsigned int score = 0;
 } snake_data;
